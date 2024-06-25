@@ -1,0 +1,27 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+
+# Swift Package Manager
+Packages
+.swiftpm
+Package.resolved
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Ignore ApiManager.swift file
+ApiManager.swift
